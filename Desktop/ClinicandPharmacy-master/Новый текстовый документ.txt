@@ -1,0 +1,7 @@
+Online Clinic
+Team Members:
+Anarbek Aidyn
+Mussabayev Daulet
+Akzholtaev Kazybek
+Description
+The app will be about clinic witch will have pharmacy and service. Users can register to different doctors, and buy medicine.

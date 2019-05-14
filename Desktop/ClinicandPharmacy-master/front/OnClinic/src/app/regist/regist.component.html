@@ -1,0 +1,21 @@
+<section id="login">
+  <div class="login-page">
+    <div class="form">
+      <form class="register-form">
+        <input type="text" placeholder="Username"/>
+        <input type="text" placeholder="Password"/>
+        <input type="text" placeholder="Email"/>
+        <button>Create</button>
+        <p class="message">Already Registered? <a href="#">Login</a></p>
+      </form>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script>
+    $('.message a').click(function(){
+      $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
+    });
+
+  </script>
+</section>
